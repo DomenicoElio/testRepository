@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;longitutde&apos; in &apos;poiExercise.poi&apos; to &apos;longitude&apos;&#x0D;&#x0A;- Original project: &apos;poiExercise&apos;&#x0D;&#x0A;- Original element: &apos;poiExercise.poi.longitutde&apos;&#x0D;&#x0A;- Renamed element: &apos;poiExercise.poi.longitude&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;longitutde&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;poiExercise{poi.java[poi^longitutde" name="longitude" references="true" setter="false" stamp="1587915718418" textual="false" version="1.0"/>
+</session>
